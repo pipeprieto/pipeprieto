@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andres Felipe Prieto Luque
 - 👀 I’m interested in Software Development especially on Videgames Development
 - 🌱 I’m currently learning Web Development using Angular and NodeJS and Videogames Development with Unreal Engine
-- To know more about, visite my [porfolio website](andresprieto.com.co)
+- To know more about, visit my [porfolio website](andresprieto.com.co)
 
 <!---
 pipeprieto/pipeprieto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
