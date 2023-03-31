@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Andres Felipe Prieto Luque
-- 👀 I’m interested in Software Development especially on Videgames Development
-- 🌱 I’m currently learning Web Development using Angular and NodeJS and Videogames Development with Unreal Engine
+- 👀 I’m interested in Software Development.
+- 🚀 I’m currently improving my Web Development skills using Angular, NextJs, NodeJS and GO.
+- 🌱 I'm learning about Mobile apps development with flutter and Videogames development with Unreal Engine.
 - To know more, visit my [porfolio website](andresprieto.com.co)
 
 <!---
