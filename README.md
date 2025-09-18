@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pipeprieto_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luquef) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luquef) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,flask,unreal,blender,figma,flutter,nextjs,mongodb,postgres,tailwind)](https://skillicons.dev)
